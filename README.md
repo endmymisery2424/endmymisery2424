@@ -9,7 +9,7 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
 
-- 🔭 I’m currently working on  **Learning Java** and making my **Portfolio Website**
+- 🔭 I’m currently working on  **Learning Java**, **Learning C++** , **Learning C# & .NET SQL**, making my **Portfolio Website**
 
 - ⚡ Fun fact **I don't really know what I'm doing**
 <p align="left">
